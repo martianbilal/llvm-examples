@@ -1,0 +1,5 @@
+./bin
+./lib
+./llvm
+./compile_commands.json
+./llvm_condbr
